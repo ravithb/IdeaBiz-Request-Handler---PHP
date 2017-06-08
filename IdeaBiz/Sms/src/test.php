@@ -5,6 +5,9 @@
  * Date: 3/23/2015
  * Time: 11:20 PM
  */
+ 
+namespace IdeaBiz/Sms;
+
 
 include 'IdeaBizAPIHandler.php';
 $auth = new IdeaBizAPIHandler();

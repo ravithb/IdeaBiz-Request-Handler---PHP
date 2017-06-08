@@ -1,10 +1,6 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Malinda
- * Date: 3/28/2015
- * Time: 11:49 AM
- */
+namespace IdeaBiz/Sms;
+
 abstract class RequestMethod
 {
     const POST = "POST";

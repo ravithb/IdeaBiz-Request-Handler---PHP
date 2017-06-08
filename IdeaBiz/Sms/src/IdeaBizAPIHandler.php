@@ -1,10 +1,7 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Malinda
- * Date: 3/23/2015
- * Time: 11:51 PM
- */
+
+namespace IdeaBiz/Sms;
+
 include 'lib/Exceptions.php';
 include 'lib/Authenticator.php';
 

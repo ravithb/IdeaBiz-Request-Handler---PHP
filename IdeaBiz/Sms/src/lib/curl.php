@@ -1,10 +1,5 @@
 <?php
-/**
- * User: malindar
- * Date: 3/8/14
- * Time: 12:43 AM
- * malindaprasad.com
- */
+namespace IdeaBiz/Sms;
 
 include_once 'lib/ResponseStatus.php';
 

@@ -1,11 +1,8 @@
 <?php
 
-/**
- * Created by PhpStorm.
- * User: Malinda
- * Date: 3/23/2015
- * Time: 10:45 PM
- */
+namespace IdeaBiz/Sms;
+
+
 include_once 'lib/Exceptions.php';
 include_once 'lib/ResponseStatus.php';
 include_once 'lib/RequestMethod.php';
