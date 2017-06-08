@@ -1,0 +1,29 @@
+{
+    "name": "ideabiz/sms",
+    "description": "PHP helper classes for ideabiz/sms api integration",
+    "authors": [
+        {
+            "name": "Malinda Prasad",
+            "email": "malinda555@gmail.com"
+        },
+        {
+            "name": "Ravith Botejue",
+            "email": "ravithb@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0" : {
+            "IdeaBiz\\Sms" : "src"
+        }
+    },
+    "repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/ravithb/IdeaBiz-Request-Handler---PHP"
+		}
+	]
+}
